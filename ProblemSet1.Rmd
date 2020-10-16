@@ -29,7 +29,7 @@ Conditional Variance
  $$ V(y|x) = V(x \beta + \epsilon | x) $$ 
  $$ = V(x \beta | x) + V(\epsilon | x) $$ 
  $$ = 0 + \epsilon $$
- $$ = \epsilon $$
+ $$ = \sigma^2 $$
 
 # Part C
 
